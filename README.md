@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manojlimbu
+- 👋 Hi, I’m @manojlimbu i am a first time user of git hub
 - 👀 I’m interested in palaying chess,football,basketball and coding.
 - 🌱 I’m currently learning in class 8.
 - 💞️ I’m looking to collaborate on doing some business with my friend janak.
